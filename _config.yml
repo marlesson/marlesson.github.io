@@ -1,5 +1,5 @@
 layout: sidebar
-style: light
+style: dark
 
 plugins:
   - jekyll-octicons
@@ -39,12 +39,32 @@ social_media:
   #youtube: your_username
 
 topics:
-  - name: CSS
-    web_url: https://github.com/topics/css
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
-
   - name: Machine Learning
+    image_url: http://blog.yhat.com/static/img/NN.png
 
-  - name: Sass
-    web_url: https://github.com/topics/sass
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
+  - name: Data Science
+    image_url: https://image.freepik.com/vetores-gratis/ciencia-de-dados-ilustracao-com-pessoa-e-icones_1124-392.jpg
+
+  - name: Python
+    image_url: https://www.python.org/static/opengraph-icon-200x200.png
+
+  - name: Google Cloud Platform
+    web_url: https://cloud.google.com/
+    image_url: https://www.sumologic.com/wp-content/uploads/gcp-logo-1.png
+
+  - name: Hadoop
+    web_url: https://hadoop.apache.org/
+    image_url: https://i2.wp.com/www.cienciaedados.com/wp-content/uploads/2015/12/Hadoop.png?resize=297%2C288
+
+  - name: Spark
+    web_url: https://spark.apache.org/
+    image_url: https://cdn-images-1.medium.com/max/1200/1*Pa7PO1v7bANI7C-eHMS_PQ.png
+
+  - name: TensorFlow
+    web_url: https://www.tensorflow.org/
+    image_url: http://www.lapix.ufsc.br/wp-content/uploads/2018/04/q8sc1KuZ_400x400.jpg
+
+  - name: Scikit-learn
+    web_url: https://scikit-learn.org/
+    image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png
+
